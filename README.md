@@ -9,3 +9,6 @@ YOLOv4 is the fourth version in the "You Only Look Once" family of models. YOLOv
 
 YOLOv4 model is used for object detection. It can classify upto 80 types of objects.
 
+Libraries required:
+1. Numpy
+2. openCV
