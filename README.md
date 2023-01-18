@@ -10,3 +10,5 @@ YOLOv4 model is used for object detection. It can classify upto 80 types of obje
 Libraries required:
 1. Numpy
 2. openCV
+
+Note: Put classes, yolov4-weights and yolov4-model files should be put in a folder named dnn_model before running the program
