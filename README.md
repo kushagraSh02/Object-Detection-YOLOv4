@@ -11,4 +11,4 @@ Libraries required:
 1. Numpy
 2. openCV
 
-Note: Put classes, yolov4-tiny.weights and yolov4-tiny files should be put in a folder named dnn_model before running the program
+Note: Put classes, yolov4-tiny.weights and yolov4-tiny files should be put in a folder named "dnn_model" before running the program.
